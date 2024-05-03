@@ -1,4 +1,4 @@
-# Kozyrev-Mirrors-Notes
+# Kozyrev Mirrors Notes
 
 Nikolai Kozyrev was a Russian astrophysicist in the 20th century who is best known for his work on the properties of time and his study of torsion fields. Among his many interests, he postulated the existence of a form of energy related to time, which he believed could be harnessed.
 
